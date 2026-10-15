@@ -2,7 +2,7 @@
 
 An end-to-end Excel project: take a deliberately **messy HR dataset** (1,020 employees), clean it, explore it, and present the results in an interactive **Employee Management Dashboard**.
 
-![Employee Management Dashboard](images/dashboard.jpg)
+![Employee Management Dashboard](Dashboard.jpg)
 
 ---
 
@@ -187,8 +187,6 @@ Issues found during review:
 ```
 ├── Messy_Employee_dataset.xlsx     # Raw data, cleaned table, pivots and dashboard
 ├── README.md
-└── images/
-    └── dashboard.jpg               # Final dashboard
 ```
 
 **To explore:** open the workbook and go through `Messy_Employee_dataset` (raw), `Table_Employee` (cleaned), `MessyWorkChart` (pivots) and `Dashboard` (final view).
